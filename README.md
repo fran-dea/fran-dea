@@ -1,5 +1,7 @@
 ### Heey, I'm Fran, a second year *applied math* student at *University of São Paulo* ✨
 ![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=fran-dea&theme=synthwave&count_private=true&show_icons=true&)
+<br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fran-dea&theme=synthwave&hide_progress=true)
 
 <a href="https://www.linkedin.com/in/francielly-meira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
