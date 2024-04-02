@@ -1,11 +1,13 @@
-### Heey, I'm Fran, a second year *applied math* student at *University of São Paulo* ✨
+### Heey, I'm Fran, a third year *applied math* student at *University of São Paulo* ✨
 ![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=fran-dea&theme=synthwave&count_private=true&show_icons=true&)
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fran-dea&theme=synthwave&hide_progress=true)
 
 <a href="https://www.linkedin.com/in/francielly-meira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+- 🔭 I’m currently working at Kinea, in the marketing team
+- 🌱 I’m currently learning more about cybersecurity!
+- 😄 Pronouns: she/her
 
 <!--
 **fran-dea/fran-dea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
