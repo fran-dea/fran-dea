@@ -1,4 +1,4 @@
-### Heey, I'm Fran, a third year *applied math* student at *University of São Paulo* ✨
+### Heey, I'm Fran, a senior *applied math* student at *University of São Paulo* ✨
 ![Fran's GitHub stats](https://github-readme-stats.vercel.app/api?username=fran-dea&theme=synthwave&count_private=true&show_icons=true&)
 <br>
 <br>
